@@ -28,7 +28,7 @@
 
  **Campus Computers**
 
-  * Login: Student username (ID number) + password
+  * Login: Student username (ID number) and password
   * Saving files: Do not save to desktop/local drive (files erased). Always save to Microsoft OneDrive
   * Software on computers: Windows 10 with Microsoft 365 (Word, Excel, PowerPoint, Outlook, OneDrive, Access, Publisher) plus Edge and Chrome browsers
   * Apple computers: Available if required by programme. Includes Microsoft 365 apps
@@ -42,15 +42,14 @@
  **Format:** firstname.lastname##@student.wandw\.ac.nz or firstname.lastname##@whitireianz.ac.nz
  **New students:** Email, username, and initial password sent to personal email after enrolment. Must update password before accessing systems
  **Returning students:** Keep same student email; no need for a new one. Contact ICT Services if details forgotten
- **Access:** Go to [outlook.office.com](https://outlook.office.com) → login with student email + password
- **Forwarding:** Outlook → Settings → Mail → Forwarding → Enable forwarding. Option to keep a copy of forwarded messages
+ **Access:** Go to [outlook.office.com](https://outlook.office.com) then login with student email + password
+ **Forwarding:** Outlook then Settings then Mail then Forwarding then Enable forwarding. Option to keep a copy of forwarded messages
 
 
 ## Eduroam Wi-Fi
  **About:** Free, secure Wi-Fi across all Whitireia & WelTec campuses and global Eduroam partner institutions
- **Access:** Search for "eduroam" in Wi-Fi list → login with student email + password
+ **Access:** Search for "eduroam" in Wi-Fi list then login with student email + password
  **Android setup:**
-
   * EAP method: PEAP
   * Phase 2 authentication: MSCHAPV2
   * Certificate: Do not validate/None
@@ -61,17 +60,16 @@
 
 ## Printing & Photocopying
  **Devices:** Multi-Function Devices (MFDs) across campus (Learning Commons, near classrooms)
- **Access:** Swipe student ID card → enter username/password first time to activate card → swipe for future logins
+ **Access:** Swipe student ID card then enter username/password first time to activate card then swipe for future logins
  **Printer name:** **Smart\_Print** (send jobs from campus computers only)
  **Costs (per side):**
-
   * A4 B/W: \$0.05
   * A4 Colour: \$0.15
   * A3 B/W: \$0.10
   * A3 Colour: \$0.30
  **Top-up:** [printing.wandw.ac.nz](https://printing.wandw.ac.nz) → login → add min \$2 credit (non-refundable)
- **Copying:** Place in feeder → select Copy → Start
- **Scanning:** Place in feeder → select Scan to Email → Start
+ **Copying:** Place in feeder then select Copy then Start
+ **Scanning:** Place in feeder then select Scan to Email then Start
 
 
 ## Microsoft 365
@@ -97,13 +95,12 @@
 
 ## Moodle
  **About:** Online platform for study materials, readings, activities, quizzes, assessments, announcements
- **Access:** [moodle.whitireiaweltec.ac.nz](https://moodle.whitireiaweltec.ac.nz) → login with student username + password
+ **Access:** [moodle.whitireiaweltec.ac.nz](https://moodle.whitireiaweltec.ac.nz) then login with student username and password
  **Dashboard:** Shows all enrolled courses → click to access course content
  **Mobile app:** Download Moodle app from app store for on-the-go access
  **Support:**
-
-  * Login issues → [servicecentre@wandw.ac.nz](mailto:servicecentre@wandw.ac.nz)
-  * Missing content → [learntech.freshdesk.com](https://learntech.freshdesk.com)
+  * Login issues at [servicecentre@wandw.ac.nz](mailto:servicecentre@wandw.ac.nz)
+  * Missing content at [learntech.freshdesk.com](https://learntech.freshdesk.com)
 
 
 ## Password Reset
