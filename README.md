@@ -7,7 +7,7 @@ This project provides a campus-specific chatbot where students and staff can que
 
 ## Features
 - Interactive web-based chat UI (OpenWebUI).
-- Run with **Mistral 7B Instruct** (default) Ollama models.
+- Including: Gemma3:12b and other Ollama-based models.
 - Upload and manage custom **knowledge resources** (campus info, contacts).
 - Docker setup for easy deployment.
 - Extensible for custom prompts and UI.
