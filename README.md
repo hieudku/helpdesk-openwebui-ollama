@@ -1,6 +1,6 @@
 # School Helpdesk AI
 
-An AI-powered helpdesk system for schools, built on top of [Open WebUI](https://github.com/open-webui/open-webui) and [Ollama](https://ollama.com).  
+A Local AI-powered helpdesk system for schools, built on top of [Open WebUI](https://github.com/open-webui/open-webui) and [Ollama](https://ollama.com).  
 This project provides a campus-specific chatbot where students and staff can query information such as locations, contacts, and services.  
 
 ---
